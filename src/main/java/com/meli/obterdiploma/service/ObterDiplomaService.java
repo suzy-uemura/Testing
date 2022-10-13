@@ -4,6 +4,7 @@ import com.meli.obterdiploma.model.StudentDTO;
 import com.meli.obterdiploma.model.SubjectDTO;
 import org.springframework.stereotype.Service;
 
+import javax.validation.Valid;
 import java.text.DecimalFormat;
 import java.util.List;
 

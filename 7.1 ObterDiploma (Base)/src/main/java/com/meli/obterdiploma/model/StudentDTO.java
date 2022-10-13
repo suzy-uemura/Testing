@@ -7,6 +7,7 @@ import java.util.List;
 
 @Getter @Setter
 public class StudentDTO {
+
     String studentName;
     String message;
     Double averageScore;
